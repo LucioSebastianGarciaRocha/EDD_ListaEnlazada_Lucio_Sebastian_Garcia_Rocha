@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ListaEnlazada.UI.Consola/ListaEnlazada.UI.Consola.csproj" />
+  <Project Path="ListasEnlazadas.Logica/ListasEnlazadas.Logica.csproj" />
+</Solution>
